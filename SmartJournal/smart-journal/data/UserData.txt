@@ -1,0 +1,19 @@
+s100201@student.fop
+Foo Bar
+pw-Stud#1
+
+s100202@student.fop
+John Doe
+pw-Stud#2
+1979341706@qq.com
+felixcui
+feng060903
+12345@gmail.com
+a
+12345
+12@gmail.com
+b
+12
+123@gmail.com
+c
+123
